@@ -1,13 +1,16 @@
 import styled from '@emotion/styled';
+
 export const Container = styled.div`
-width: 1200px;
-padding: 15px;
-`
+  width: 1200px;
+  padding: 15px;
+`;
+
 export const Section = styled.section`
   width: 400px;
   padding-top: 20px;
   padding-bottom: 20px;
 `;
+
 export const Title = styled.h1`
   font-family: Caviar Dreams;
   font-style: normal;

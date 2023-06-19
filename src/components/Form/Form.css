@@ -1,26 +1,49 @@
 .PhoneInputInput{
-  padding: 2px 5px;
-  margin-top: 6px;
-  width: 200px;
+    margin-top: 16px;
+    display: block;
+    width: 85%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .PhoneInputCountrySelect{
-  padding: 2px 5px;
-  width: 215px;
+    margin-top: 16px;
+    display: block;
+    width: 85%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;  
 }
 
 .PhoneInputCountryIconImg{
-  width:30px;
-  height:30px;
+    width:30px; 
+    height:30px;
 }
 
 .PhoneInputCountryIcon{
-  width:30px;
-  height:30px;
-  margin-left: 10px;
+    width:30px; 
+    height:30px;
+    margin-left: 10px;
 }
 
 .PhoneInputCountry{
-  display: flex;
-  align-items: center;
+    display: flex;
+    align-items: center;  
 }
